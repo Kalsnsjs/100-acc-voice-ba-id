@@ -1909,7 +1909,7 @@ jano100.on("ready", () => {
 
 jano.login("");
 jano2.login("");
-jano3.login("");
+jano3.login("OTA4MDgzMDY0MjU1NzA5MjM0.YYwnKA.LIstMbUYvpi-qDj1tR9mDiVnbh0");
 jano4.login("");
 jano5.login("");
 jano6.login("");
